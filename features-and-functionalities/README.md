@@ -74,6 +74,13 @@ Admins can manage:
 - Payments
 
 ---
+## 📊 Database Schema
+
+The database schema for the Airbnb Clone backend is designed to support user roles, bookings, payments, reviews, and more.
+
+👉 [View the full ERD on dbdiagram.io](https://dbdiagram.io/d/68628345f413ba350887927d)
+
+---
 
 ## Technical Requirements
 
